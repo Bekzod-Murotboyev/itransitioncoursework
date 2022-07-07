@@ -2,7 +2,7 @@
 ***_Collection Management_***                           
 <hr/>
 
-*!Note: Only admin can manage users.*
+*!Note: Only admin can manage users. Please use this credentials for using website as admin*
 
 **mail** : admin@gmail.com
 
