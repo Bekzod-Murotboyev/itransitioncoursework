@@ -4,5 +4,6 @@
 
 *!Note: Only admin can manage users.*
 
-mail: admin@gmail.com
-password: root123
+**mail** : admin@gmail.com
+
+**password** : root123
