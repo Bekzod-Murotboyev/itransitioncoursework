@@ -2,7 +2,7 @@
 
 ***_Collection Management_*** 
 
-Click [here](http://50.116.20.197:3001) for looking working project.
+Click [here](http://50.116.20.197:3001) to see a working project
 
 <hr/>
 
